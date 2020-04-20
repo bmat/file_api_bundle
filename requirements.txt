@@ -1,0 +1,2 @@
+applauncher
+file-api >= 1.0
